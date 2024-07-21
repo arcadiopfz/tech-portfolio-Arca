@@ -1,0 +1,34 @@
+.cache/
+.docker/
+.gitconfig
+.ipython/
+.keras/
+.lesshst
+.matplotlib/
+.ollama/
+.vscode/
+3D Objects/
+AppData/
+AppMods/
+Application Data/
+Contacts/
+Creative Cloud Files/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Labs_term2/
+Links/
+Microsoft/
+Music/
+NTUSER.DAT*
+OneDrive/
+Recorded Calls/
+Saved Games/
+Searches/
+Text 2
+Videos/
+github-classroom/
+lunar_env/
+pl.ini
+venv/
